@@ -54,7 +54,7 @@ VITE_APP_EMAILJS_PUBLIC_KEY
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/nischay-code/3d_portfolio.git
+    git clone https://github.com/sudh-202/3d_Portfolio-main
     ```
 
 2. **Change into the project directory:**
