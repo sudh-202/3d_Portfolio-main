@@ -18,13 +18,19 @@ Create an amazing 3D developer portfolio using React and Three.js. This template
 
 ### Home Page 🏡
 
+![Screenshot 2024-08-30 125607](https://github.com/user-attachments/assets/493d03a9-3f3e-4c62-a17f-198868e9252b)
 
 ### About Page ℹ️
 
+![Screenshot 2024-08-30 125621](https://github.com/user-attachments/assets/5c589167-5699-4e6e-9f5e-f13464706fc9)
+
 ### Project Page 🚧
+
+![Screenshot 2024-08-30 125639](https://github.com/user-attachments/assets/dd9b5fc0-684d-4d12-97fb-17341a432ac4)
 
 
 ### Contact Page 📬
+![Screenshot 2024-08-30 125719](https://github.com/user-attachments/assets/53949ae1-114e-43f0-8ace-b87ca7a4251d)
 
 
 
